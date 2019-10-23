@@ -14,9 +14,9 @@
   "keywords": [],
   "author": {
     "name": "George Peppard",
-    "email": "iaminventor02@gmail.com"
+    "email": "george@vexs.uk"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "config": {
     "forge": {
       "packagerConfig": {},
